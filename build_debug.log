@@ -1,0 +1,5 @@
+90 INFO: PyInstaller: 6.16.0, contrib hooks: 2025.9
+90 INFO: Python: 3.12.3
+106 INFO: Platform: Windows-11-10.0.26100-SP0
+106 INFO: Python environment: C:\Users\skalk\PycharmProjects\bloody murder\PriceBot z kodem\.venv
+ERROR: Script file 'selekator_csv.py' does not exist.
